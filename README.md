@@ -38,6 +38,10 @@ Criar uma aplicação onde podemos manter clientes no nosso sistema, como també
 <b>BANCO DE DADOS:</b> <br>
 - MYSQL<br>
 
+## Vídeo Explicativo
+Nosso projeto conta com um vídeo explicativo que apresenta, de forma clara, o funcionamento do nosso sistema.
+https://youtu.be/LNqei0SYt7s?si=sBYndwDG-z9lrDeW
+
 ## Integrantes do Projeto
 - Guilherme Porto -Scrum Master| [GitHub](https://github.com/fnxis)
 - Leonardo Bonamin - Product Owner | [GitHub](https://github.com/LeonardoBonamin)
